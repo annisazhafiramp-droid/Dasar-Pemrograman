@@ -5,22 +5,6 @@ Repository ini digunakan sebagai tempat penyimpanan dan dokumentasi berbagai tug
 👤 Identitas Mahasiswa
 Nama: Annisa Zhafira Mutia Permana
 Mata Kuliah: Dasar Pemrograman (Daspro)
-📁 Struktur Direktori
-
-Repository ini memiliki beberapa direktori utama yang digunakan untuk mengorganisir tugas dan project selama perkuliahan.
-
-Daspro/
-│
-├── Project/
-│   └──
-│       ├──
-│       └──
-│
-├── Tugas_Teori/
-│   └──
-│
-└── Tugas_Praktikum/
-    └──
 
 📌 Keterangan Folder
 Project/ — Menyimpan berbagai project yang dikerjakan selama mata kuliah Dasar Pemrograman.
