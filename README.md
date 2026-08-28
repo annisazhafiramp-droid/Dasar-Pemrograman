@@ -7,8 +7,8 @@ Nama: Annisa Zhafira Mutia Permana
 Mata Kuliah: Dasar Pemrograman (Daspro)
 
 📌 Keterangan Folder
-Project/ — Menyimpan berbagai project yang dikerjakan selama mata kuliah Dasar Pemrograman.
-Tugas_Teori/ — Berisi tugas-tugas yang berkaitan dengan materi dan pembahasan teori Dasar Pemrograman.
-Tugas_Praktikum/ — Berisi tugas serta hasil praktikum yang telah dikerjakan selama proses pembelajaran.
+Project — Menyimpan berbagai project yang dikerjakan selama mata kuliah Dasar Pemrograman.
+Tugas_Teori — Berisi tugas-tugas yang berkaitan dengan materi dan pembahasan teori Dasar Pemrograman.
+Tugas_Praktikum — Berisi tugas serta hasil praktikum yang telah dikerjakan selama proses pembelajaran.
 
 Repository ini akan digunakan sebagai dokumentasi perkembangan pembelajaran dan hasil pengerjaan tugas selama mengikuti mata kuliah Dasar Pemrograman.
