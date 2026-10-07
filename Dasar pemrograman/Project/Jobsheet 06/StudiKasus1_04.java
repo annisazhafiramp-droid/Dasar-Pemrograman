@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class StudiKasus1_04 {
     public static void main(String[] args) {
-        Scanner sc = = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         // Deklarasi variabel & inisialisasi harga
         int hargaPerCup = 18000;
