@@ -52,9 +52,6 @@ public class StudiKasus2_04 {
         } else {
             System.out.println("Dokumen tidak lengkap dan jenis kegiatan tidak valid. Tidak dapat dana penghargaan");
         }
-        System.out.println("Jenis kegiatan tidak valid. Tidak dapat dana penghargaan");
-
-        sc.close();
     }
     
 }
